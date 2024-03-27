@@ -8,6 +8,9 @@ body {
 }
 
 .container {
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
     background-color: white;
     border: solid;
     border-radius: 10px;
@@ -42,4 +45,3 @@ button {
 #save-btn {
     background: darkgreen;
 }
-
